@@ -1,15 +1,4 @@
 <template>
-  <link
-    href="./assets/styles/simple-line-icons.css"
-    rel="stylesheet"
-    type="text/css"
-  />
-  <link
-    href="./assets/icons/orchard.ico"
-    rel="shortcut icon"
-    type="image/x-icon"
-  />
-  <link href="assets/css/bootstrap.css" rel="stylesheet" type="text/css" />
   <div id="app" data-v-app="">
     <div class="bg-secondary">
       <div class="container">
@@ -55,24 +44,28 @@
                     >BrainDrops</a
                   >
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                   <a
                     aria-current="page"
                     href="/register"
-                    class="router-link-active router-link-exact-active nav-link active"
+                    class="
+                      router-link-active router-link-exact-active
+                      nav-link
+                      active
+                    "
                     >Register</a
                   >
-                </li>
+                </li> -->
               </ul>
               <ul class="navbar-nav sm-icons mr-0">
                 <li class="nav-item">
                   <a class="nav-link" href="tel:8649771864"
-                    ><i class="icon-phone"></i
+                    >Phone<i class="icon-phone"></i
                   ></a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="mailto:me@RalphCastilla.com"
-                    ><i class="icon-envelope"></i
+                    >Mail<i class="icon-envelope"></i
                   ></a>
                 </li>
                 <li class="nav-item">
@@ -80,15 +73,15 @@
                     class="nav-link"
                     href="https://www.linkedin.com/in/RalphCastilla"
                     target="_blank"
-                    ><i class="icon-social-linkedin"></i
-                  ></a>
+                    >LinkedIn<mdb-icon fab icon="linkedin"
+                  /></a>
                 </li>
                 <li class="nav-item">
                   <a
                     class="nav-link"
                     href="https://twitter.com/carolinacoder"
                     target="_blank"
-                    ><i class="icon-social-twitter"></i
+                    >Twitter<i class="icon-social-twitter"></i
                   ></a>
                 </li>
               </ul>
@@ -107,7 +100,6 @@
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
 }
 

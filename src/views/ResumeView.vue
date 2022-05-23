@@ -80,7 +80,7 @@
         >
           <div class="d-flex w-100 justify-content-between">
             <h5 class="mb-1">Independent Developer - CEO</h5>
-            <small>Jan 2013 - Present </small>
+            <small>Jan 2013 - Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</small>
           </div>
         </button>
       </h2>
@@ -139,7 +139,7 @@
         >
           <div class="d-flex w-100 justify-content-between">
             <h5 class="mb-1">Synesis International - Project Engineer</h5>
-            <small>Jun 2008 - Jan 2012</small>
+            <small>Jun 2008 - Jan 2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</small>
           </div>
         </button>
       </h2>
@@ -194,7 +194,7 @@
         >
           <div class="d-flex w-100 justify-content-between">
             <h5 class="mb-1">Bowater - Project Engineer</h5>
-            <small>Nov 1997 - Sep 2008</small>
+            <small>Nov 1997 - Sep 2008&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</small>
           </div>
         </button>
       </h2>
@@ -254,7 +254,7 @@
         >
           <div class="d-flex w-100 justify-content-between">
             <h5 class="mb-1">Veterans Administration - Software Engineer</h5>
-            <small>Aug 1997 - Oct 1997</small>
+            <small>Aug 1997 - Oct 1997&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</small>
           </div>
         </button>
       </h2>
@@ -305,7 +305,7 @@
         >
           <div class="d-flex w-100 justify-content-between">
             <h5 class="mb-1">Texas General Land Office - Programmer/DBA</h5>
-            <small>Jun 1993 - Aug 1996</small>
+            <small>Jun 1993 - Aug 1996&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</small>
           </div>
         </button>
       </h2>
@@ -385,7 +385,7 @@
         >
           <div class="d-flex w-100 justify-content-between">
             <h5 class="mb-1">Tracor - System Administrator/Programmer</h5>
-            <small> May 1990 - Jun 1993</small>
+            <small> May 1990 - Jun 1993&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</small>
           </div>
         </button>
       </h2>
@@ -453,7 +453,7 @@
         >
           <div class="d-flex w-100 justify-content-between">
             <h5 class="mb-1">Army National Guard - Administrator</h5>
-            <small>Aug 1989 - Jan 1990</small>
+            <small>Aug 1989 - Jan 1990&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</small>
           </div>
         </button>
       </h2>
